@@ -1,5 +1,5 @@
 # Sales_dash
-Create a dashboard to visualize the sales trend with a plot.
+Create a dashboard to visualize the sale trend via a plot.
 
 prerequirements:
 - ensure the port 8050 is free
