@@ -1,0 +1,5 @@
+polars
+dash
+Plotly 
+dash-bootstrap-components
+dash-ag-grid
